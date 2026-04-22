@@ -96,7 +96,7 @@ ax_b.errorbar(gc, cm, yerr=cs, fmt="s", color=VAR_COL,
 
 # Variable (right y-axis)
 ax_b2.plot(gc, vm, color=CORE_COL, linewidth=2, zorder=4)
-ax_b2.errorbar(gc, vm, yerr=vs, fmt="^", color=CORE_COL,
+ax_b2.errorbar(gc, vm, yerr=vs, fmt="s", color=CORE_COL,
                markerfacecolor="white", markeredgecolor=CORE_COL,
                markersize=6, capsize=3, linewidth=1, zorder=3)
 
