@@ -1,0 +1,4 @@
+Total number and average size of variable genes across all genomes. 
+(a). Box plot representing average size in base pairs across core and variable gene subsets, black diamond as mean. Variable genes are shorter on average (U-Test, p< 0.001) 
+(b).  Number of variable genes (blue line) across all 34 samples used to build the pangenome. 
+Curves were computed using 34 random sampling iterations per genome count, with a box plot at each iteration to visualise spread around the mean *** = p < 0.001.  
